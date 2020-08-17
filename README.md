@@ -34,7 +34,7 @@ Software: Python 3.7.6, Jupyter Notebook
   
 - School Size
   - ![School_Size_Original.png](Pictures/School_Size_Original.png)
-  - ![School_Type_Updated.png](Pictures/School_Updated_Original.png)
+  - ![School_Size_Updated.png](Pictures/School_Size_Updated.png)
   
   
 ## School District Analysis Summary
